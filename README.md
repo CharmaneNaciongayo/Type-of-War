@@ -13,6 +13,7 @@ The following speed tiers are implemented:
   - 1 Click in the past 1 second: 2
   - <= 4 Clicks in the past 1 second: 4
   - <= 8 Clicks in the past 1 second: 8
+
 For Player 1 who is on the left side, speeds are multiplied by -1.
 In order to add an extra twist to the game, both players will be prompted on screen to type a RANDOM WORD every 4 seconds.
 While this prompt is active, players cannot actuate the spacebar or tug on the rope.
