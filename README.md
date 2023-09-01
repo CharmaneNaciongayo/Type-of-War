@@ -23,7 +23,7 @@ If the player fails to input the word before the timer ends, he or she has lost 
 This twist is active while there is no winner yet.
 Whichever player sprite goes past the center of the screen first will automatically lose. The game ends here.
 
-# GAME Instructions
+# Game Instructions
 Once the game is open, press Start. 
 Rapidly press the spacebar key to tug on the rope in your respective direction. Your chances of winning increase the faster you press.
 Every 4 seconds, an input prompt will appear on your screen. Input the flashed word into the case-sensitive text field to close the prompt. The input prompt will close itself automatically after 4 seconds. You cannot close this yourself.
